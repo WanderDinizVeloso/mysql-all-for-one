@@ -16,6 +16,8 @@ O currículo da Trybe foi desenhado em parceria com as maiores empresas de tecno
 
 ## Sumário
 
+- [Habilidades desenvolvidas](#habilidades-desenvolvidas)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Requisitos do projeto](#requisitos-do-projeto)
     - [Desafios Iniciais](#desafios-iniciais)
     - [Desafios sobre filtragem de dados](#desafios-sobre-filtragem-de-dados)
